@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  background-color: aqua;
+  font-size: 50px;
+}
+
+.lasagna-image {
+  height: auto;
+  width: 596px;
+}
+
+.masshed-image {
+  height: auto;
+  width: 960px;
+}
+
+ul li {
+  font-size: 20px;
+}
